@@ -66,7 +66,7 @@ An interactive web app was developed using **Flask**, allowing users to:
 ## 🚀 Project Setup
 
 ```bash
-git clone https://github.com/yourusername/thyroid-ai-diagnosis.git
+git clone https://github.com/yerzatm002/ml-thyroid-detection.git
 cd thyroid-ai-diagnosis
 pip install -r requirements.txt
 python app.py
